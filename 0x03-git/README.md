@@ -1,1 +1,1 @@
-Resources of Git and Github
+Resources of Git and Github :)
